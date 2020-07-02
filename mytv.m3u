@@ -291,3 +291,14 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wuAF3Uz.png" group-title="",National Geographic UK
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+
+
+
+#EXTINF:-1,JASMIN.TV
+#http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+
+#EXTINF:-1,Miami TV
+#http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
+
+#EXTINF:-1,Dorcel TV
+#http://188.35.9.11:21141/udp/214h
