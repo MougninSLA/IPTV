@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="logo/rti1.png" group-title="Côte d'Ivoire",RTI 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="logos/rti1.png" group-title="Côte d'Ivoire",RTI 1
 #EXTREM:RTI 1 est la première chaîne de télévision généraliste publique ivoirienne qui émet en continu depuis Abidjan.
 https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
 
@@ -8,17 +8,17 @@ https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
 #EXTREM:RTI 2 est une chaîne de télévision généraliste publique ivoirienne. Elle est surtout consacrée à la jeunesse. 
 https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="logo/rti3.png" group-title="Côte d'Ivoire",La 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="logos/rti3.png" group-title="Côte d'Ivoire",La 3
 #EXTREM:La 3 est une chaine de télévision de divertissement.
 https://www.enovativecdn.com:4433/rticdn/smil:rti3.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="logo/nci.png" group-title="Côte d'Ivoire",NCI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="logos/nci.png" group-title="Côte d'Ivoire",NCI
 https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="logo/lifetv.png" group-title="Côte d'Ivoire",Life TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="logos/lifetv.png" group-title="Côte d'Ivoire",Life TV
 https://lifetv.ci/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://www.7info.ci/wp-content/uploads/2019/04/logo-7info-1.png" group-title="Côte d'Ivoire",7 infos
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="logos/7info.png" group-title="Côte d'Ivoire",7 infos
 https://www.7info.ci/wp-content/uploads/2019/04/logo-7info-1.png
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/logo-africa-gospel.jpg" group-title="",Africa Gospel TV
