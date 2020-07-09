@@ -1,34 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/logos/rti1.png" group-title="Côte d'Ivoire",RTI 1
+#EXTINF:-1 tvg-id="" tvg-name="RTI 1" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/logos/rti1.png",RTI 1
 #EXTREM:RTI 1 est la première chaîne de télévision généraliste publique ivoirienne qui émet en continu depuis Abidjan.
 https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/logos/rti2.png" group-title="Côte d'Ivoire",RTI 2
+#EXTINF:-1 tvg-id="" tvg-name="RTI 2" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/logos/rti2.png",RTI 2
 #EXTREM:RTI 2 est une chaîne de télévision généraliste publique ivoirienne. Elle est surtout consacrée à la jeunesse. 
 https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/logos/rti3.png" group-title="Côte d'Ivoire",La 3
+#EXTINF:-1 tvg-id="" tvg-name="RTI 3" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/logos/rti3.png",La 3
 #EXTREM:La 3 est une chaine de télévision de divertissement.
 https://www.enovativecdn.com:4433/rticdn/smil:rti3.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/logos/nci.png" group-title="Côte d'Ivoire",NCI
+#EXTINF:-1 tvg-id="" tvg-name="NCI" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/logos/nci.png",NCI
 https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/logos/lifetv.png" group-title="Côte d'Ivoire",Life TV
+#EXTINF:-1 tvg-id="" tvg-name="Life TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/logos/lifetv.png",Life TV
 https://lifetv.ci/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/logos/7info.png" group-title="Côte d'Ivoire",7 infos
-https://www.7info.ci/wp-content/uploads/2019/04/logo-7info-1.png
+#EXTINF:-1 tvg-id="" tvg-name="7 Infos" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/logos/7info.png",7 infos
+https://www.7info.ci/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/logo-africa-gospel.jpg" group-title="",Africa Gospel TV
+#EXTINF:-1 tvg-id="" tvg-name="Africa Gospel TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/logos/africagospel.png",Africa Gospel TV
 https://edge8.vedge.infomaniak.com/livecast/ik:africagospeltv/manifest.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/p960x960/50088477_553240905154333_5154422812076670976_o.jpg?_nc_cat=109&_nc_sid=85a577&_nc_ohc=_A0AnKNvWPYAX8T1d8E&_nc_ht=scontent-cdg2-1.xx&_nc_tp=6&oh=4ed4c2e9a9259854b608435be9402560&oe=5EC73D8E" group-title="",D5TV
-https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w374547891_b1928000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="D5TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/logos/D5TV.png",D5TV
+https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/D5MUSIC.jpg" group-title="",D5Music
-https://live.creacast.com/d5music/smil:d5music.smil/chunklist_w1709357266_b1928000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="D5Music" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/logos/D5Music.png",D5Music
+https://live.creacast.com/d5music/smil:d5music.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/luniere-tv.png" group-title="",Lumière Tv
 http://gamako.livebox.co.in/lumieretvhls/lumieretvci.m3u8
