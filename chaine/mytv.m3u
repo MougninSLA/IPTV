@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://www.rti.ci/images/logo_rti1.png" group-title="Côte d'Ivoire",RTI 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="logo/rti1.png" group-title="Côte d'Ivoire",RTI 1
 #EXTREM:RTI 1 est la première chaîne de télévision généraliste publique ivoirienne qui émet en continu depuis Abidjan.
 https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://www.rti.ci/images/logo_rti2_gris.png" group-title="Côte d'Ivoire",RTI 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="logo/rti2.png" group-title="Côte d'Ivoire",RTI 2
 #EXTREM:RTI 2 est une chaîne de télévision généraliste publique ivoirienne. Elle est surtout consacrée à la jeunesse. 
 https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://www.rti.ci/images/logo_la_3.png" group-title="Côte d'Ivoire",La 3
-#EXTREM:La 3 est une chaine de télévision de divertissement
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="logo/rti3.png" group-title="Côte d'Ivoire",La 3
+#EXTREM:La 3 est une chaine de télévision de divertissement.
 https://www.enovativecdn.com:4433/rticdn/smil:rti3.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/p960x960/81202142_765881337212275_4638222319246901248_o.jpg?_nc_cat=1&_nc_sid=85a577&_nc_ohc=MgP3eDjdFtEAX-PVCxs&_nc_ht=scontent-cdg2-1.xx&_nc_tp=6&oh=fb9ea4aee5b9f2eed05c1a3b7628faf2&oe=5EA8753C" group-title="Côte d'Ivoire",NCI
-https://dcunilive50-lh.akamaihd.net/i/dclive_1@752105/master.m3u8?hdnea=st=1586851402~exp=1586851802~acl=/i/dclive_1@752105*~hmac=a8ae3f30034ff5ff3d4baf4b43485f7a3910d36fb4abf52e46d52d0264548ae7s
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="logo/nci.png" group-title="Côte d'Ivoire",NCI
+https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://scontent-cdg2-1.xx.fbcdn.net/v/t31.0-8/p960x960/28235106_373302676476575_7854082684529196562_o.png?_nc_cat=108&_nc_sid=85a577&_nc_oc=AQn8nAio9OSinPATQ9w9b5uwxjGOdaCzWoudpuvVG889cDAupUmM7O4hbns8t-Pqb74&_nc_ht=scontent-cdg2-1.xx&oh=a9e101b8ed944d0201dc56eb06ddba05&oe=5EA75F1D" group-title="Côte d'Ivoire",Life TV
-https://scontent-cdg2-1.xx.fbcdn.net/v/t31.0-8/p960x960/28235106_373302676476575_7854082684529196562_o.png?_nc_cat=108&_nc_sid=85a577&_nc_oc=AQn8nAio9OSinPATQ9w9b5uwxjGOdaCzWoudpuvVG889cDAupUmM7O4hbns8t-Pqb74&_nc_ht=scontent-cdg2-1.xx&oh=a9e101b8ed944d0201dc56eb06ddba05&oe=5EA75F1D
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="logo/lifetv.png" group-title="Côte d'Ivoire",Life TV
+https://lifetv.ci/
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://www.7info.ci/wp-content/uploads/2019/04/logo-7info-1.png" group-title="Côte d'Ivoire",7 infos
 https://www.7info.ci/wp-content/uploads/2019/04/logo-7info-1.png
