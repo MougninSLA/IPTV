@@ -45,10 +45,10 @@ https://edge9.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/logos/ivoirechannel.png" group-title="Côte d'Ivoire",Ivoire Channel
 http://gamako.livebox.co.in/ivoirechannelhls/ivoirechannel.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="http://www.notretelevision.org/images/ntv1.png",NTV Côte D'Ivoire
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/logos/ntv.png",NTV Côte D'Ivoire
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/ann-tv.jpg",ANN TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/logos/anntv.png",ANN TV
 http://vod.acangroup.org:1935/output/anntv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/kalac-tv-guinee_logo.jpg",KALAC TV
