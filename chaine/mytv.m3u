@@ -16,7 +16,7 @@ https://www.enovativecdn.com:4433/rticdn/smil:rti3.smil/playlist.m3u8
 https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="logo/lifetv.png" group-title="Côte d'Ivoire",Life TV
-https://lifetv.ci/
+https://lifetv.ci/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://www.7info.ci/wp-content/uploads/2019/04/logo-7info-1.png" group-title="Côte d'Ivoire",7 infos
 https://www.7info.ci/wp-content/uploads/2019/04/logo-7info-1.png
