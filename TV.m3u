@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1,Mes Chaines
+chaine/mytv.m3u
+
+#EXTINF:-1,Les chaines du monde
+https://raw.githubusercontent.com/freearhey/iptv/master/index.m3u
