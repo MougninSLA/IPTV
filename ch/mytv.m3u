@@ -58,15 +58,15 @@ https://edge4.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
 http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/africanews.png",Africanews
-https://youtu.be/vhLS-lsnhn0
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1594389179/ei/Wx4IX4iFEe-fxN8P2-mC0AM/ip/86.244.19.111/id/vhLS-lsnhn0.0/source/yt_live_broadcast/requiressl/yes/tx/23901880/txs/23901880%2C23901881/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANfcmiyWcGmCprUJTsNcskgeeIjW7dpAfyv0j2lR2koEAiAqgVG25nfeHd_3bHs9CyLSWMpO3eyteioCjbMVm2xKaQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/voxafrica.png",VOX Africa
 https://1927901613.rsc.cdn77.org/1927901613/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/a24.png",Africa24
-https://youtu.be/L5Ppr0JvPws
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1594389313/ei/4R4IX7uPHPTSsAKFmavgDg/ip/86.244.19.111/id/L5Ppr0JvPws.1/source/yt_live_broadcast/requiressl/yes/tx/23901880/txs/23901880%2C23901881/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgIRaUDw-RmvrnuIaqJMW1H-lzs-Uar5FC5Gifuslqce4CIQCaSvWieuLFwuu3h4cEcQS1_WjwWGC2vSyBGcJLFN5lPg%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/africaSportstv.png",AfricaSports TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/africasportstv.png",AfricaSports TV
 https://strhlslb01.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/str_africasportstv_africasportstv/str_africasportstv_player_1080p/chunks.m3u8
 
 
