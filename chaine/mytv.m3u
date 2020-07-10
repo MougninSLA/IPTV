@@ -51,11 +51,8 @@ https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/logos/anntv.png",ANN TV
 http://vod.acangroup.org:1935/output/anntv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/kalac-tv-guinee_logo.jpg",KALAC TV
-https://edge5.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w1676709407.m3u8?spark=48412ab0-e4e1-4e1e-b99a-3d36651d703a&token=
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/africanews-tv_logo.jpg",Africanews
-https://stream-15.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1iraNOstCIVwOCgsuzLw2_IOA)/dm/3/x6i37o5/s/live-0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/logos/africanews.png",Africanews
+https://www.youtube.com/get_video_info?html5=1&video_id=vhLS-lsnhn0&cpn=cBDRX0BHKGO-lV9p&eurl=https%3A%2F%2Ffr.africanews.com%2Flive%2F&el=embedded&hl=fr_FR&sts=18449&lact=84&c=WEB_EMBEDDED_PLAYER&cver=20200709&cplayer=UNIPLAYER&cbr=Chrome&cbrver=83.0.4103.116&cos=Windows&cosver=10.0&mute=true&autoplay=1&width=1119&height=654&ei=RBEIX43aItGXxgLThrvYDw&iframe=1&embed_config=%7B%22primaryThemeColor%22%3A%22%23d1a138%22%2C%22autonavRelatedVideos%22%3Atrue%2C%22adsConfig%22%3A%7B%22adTagParameters%22%3A%7B%22iu%22%3A%22%2F6458%2Fafricanews-new%2Flive%22%2C%22cust_params%22%3A%22page%3Dlive%26lng%3Dfr%26%22%7D%2C%22nonPersonalizedAd%22%3Afalse%2C%22disableAds%22%3Afalse%7D%7D&ancestor_origins=https%3A%2F%2Ffr.africanews.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://www.dbm-tv.fr/wp-content/uploads/2017/12/logo-dbm.png",DBM TV
 https://edge4.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
