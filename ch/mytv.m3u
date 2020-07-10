@@ -87,7 +87,7 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 #EXTINF:-1 tvg-name="E!" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/e-entertainmentblack.png",E!
 https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/e-entertainmentblack.png
 
-#EXTINF:-1 tvg-name="BET" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/bet.png",BET
+#EXTINF:-1 tvg-name="BET" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/BET.png",BET
 https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/bet.png
 
 #EXTINF:-1 tvg-name="BELTV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/beltv.png",BELTV
