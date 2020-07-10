@@ -93,7 +93,8 @@ https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/bet.png
 #EXTINF:-1 tvg-name="BELTV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/beltv.png",BELTV
 https://hbiptv.live/player/sakchotv/tracks-v1a1/mono.m3u8
 
-#EXTM3U
+
+
 
 #EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://www.rti.ci/images/logo_freq2_gris.png" group-title="Côte d'Ivoire",Fréquence 2
 https://www.enovativecdn.com:4433/radio/frequence2.stream/playlist.m3u8
@@ -152,20 +153,6 @@ http://217.182.132.143:8000/viberadio-ci.mp3
 
 
 
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidefrance.xml.gz"
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="",Alsace 20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BFM Business FR" tvg-name="BFM Business FR" tvg-language="French" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="Business",BFM Business
-https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/4buTOS3.png",BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/YFEqBS7.png",BipTV
-https://biptv.tv/live/biptvstream_orig/index.m3u8
-
 #EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/d2wbX6e.jpg" group-title="Music",NRJ Hits TV
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
 
@@ -190,13 +177,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.
 #EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV PG16
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 Arabic
-http://static.france24.com:80/live/F24_AR_HI_HLS/live_tv.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English
-http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 French
+#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/lvrvwtm.png",Francophonie
@@ -208,38 +189,20 @@ http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1816
 #EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/ZEA3az8.png",Grand Lille TV
 https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/tzurFum.png",Holygod TV Europe & Middle East
-https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/index_150.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 tvg-id="I24news FR" tvg-name="I24news FR" tvg-language="French" tvg-logo="https://i.imgur.com/pA3oGAU.png" group-title="News",i24 News
 https://i24alive1-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg",ILTV
 http://str81.creacast.com:80/iltv/high/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KTO FR" tvg-name="KTO FR" tvg-language="French" tvg-logo="https://i.imgur.com/LvbXFUy.jpg",KTO
-http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-
-#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-language="French" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="Family",La Chaine Normande TV
-http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-
 #EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="",MyComedy
 http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/X9U6AqK.png",Persiana 1
-http://51.15.229.209/hls/stream.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/43gYR8Y.png",Poker TV Arabia
-http://51.15.193.127/hls/stream.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/43gYR8Y.png",Poker TV France
 http://51.15.254.60/hls/stream.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/ekRMtra.png",Radio Contact
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/5Ky4Yyx.png",RMC
-https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="News",RT France
 http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
@@ -253,12 +216,6 @@ https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m
 #EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/AJx5Fy2.png",TV5Monde Info
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j6ZDQAw.jpg",TV5Monde Maghreb-Orient
-http://livecdnh1.tvanywhere.ae/hls/tv5/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://sport-tv-guide.live/images/tv-station-tv5-monde-pacific-nz-1533.png",TV5Monde Pacifique
-https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
-
 #EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/RuFISFk.png",TV7 Colmar
 http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
 
@@ -267,9 +224,6 @@ https://origin2.dvmr.fr/hls/tvfil78/tvfil78.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/RT3pz5L.png",TVPI
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/GMp9M5A.jpg",TVR
-https://origin1.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-language="English" tvg-logo="" group-title="Religious",Better Health TV
 http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
@@ -280,19 +234,14 @@ http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-language="English" tvg-logo="" group-title="Religious",Better Nature TV
 http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/2Wy4o31.png",Nat Geo Wild HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wuAF3Uz.png",National Geographic UK
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 
 
 
 #EXTINF:-1,JASMIN.TV
-#http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 #EXTINF:-1,Miami TV
-#http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
+http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
 
 #EXTINF:-1,Dorcel TV
-#http://188.35.9.11:21141/udp/214h
+http://188.35.9.11:21141/udp/214h
