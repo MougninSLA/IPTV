@@ -36,6 +36,9 @@ http://gamako.livebox.co.in/lumieretvhls/lumieretvci.m3u8
 #EXTINF:-1 tvg-name="ECCLESIA TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/ecctv.png",ECCLESIA TV
 https://gamako.livebox.co.in/Ecclesiatvhls/etvci.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/TVLourdes.png",Lourdes TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1594413275/ei/e3wIX_8m4vfGAv7PlvAB/ip/86.244.19.111/id/bC_N6UPpLyg.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgDLBceXl2RO_KOqVOGnmCSBItaDcDoNjEcjkdB-I3qPMCIAXK8uEbbexW9UrWXXKBTZUOSFIUzPNN6TGvsSnwx8zX/file/index.m3u8
+
 #EXTINF:-1 tvg-name="D5TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/D5TV.png",D5TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
 
@@ -69,37 +72,26 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1594389313/ei/4
 #EXTINF:-1 tvg-name="AfricaSports TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/africasportstv.png",AfricaSports TV
 https://strhlslb01.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/str_africasportstv_africasportstv/str_africasportstv_player_1080p/chunks.m3u8
 
-
-
-#EXTINF:-1 tvg-name="Trace Urban" tvg-language="French" tvg-logo="https://i.imgur.com/qMYXsMH.png" group-title="Music",Trace Urban
+#EXTINF:-1 tvg-name="Trace Urban" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/traceurban.png" group-title="Music",Trace Urban
 https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/5/prog_index.m3u8
 
-#EXTINF:-1 tvg-name="TRACE AFRICA" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2f/Trace_Africa_logo_2011.svg/1200px-Trace_Africa_logo_2011.svg.png" group-title="Music",TRACE AFRICA
+#EXTINF:-1 tvg-name="TRACE AFRICA" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/traceafrica.png" group-title="Music",TRACE AFRICA
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://fr.trace.company/wp-content/uploads//2017/03/logo-naija-1.png" group-title="Music",TRACE NAIJA
+#EXTINF:-1 tvg-name="TRACE NAIJA" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/tracenaija.png" group-title="Music",TRACE NAIJA
 https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Trace_Tropical.svg/1200px-Trace_Tropical.svg.png" group-title="Music",TRACE TROPICAL
+#EXTINF:-1 tvg-name="TRACE TROPICAL" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/tracetropical.png" group-title="Music",TRACE TROPICAL
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://static.s-sfr.fr/media/logoe-entertainmentblack.png",E!
-https://static.s-sfr.fr/media/logoe-entertainmentblack.png
+#EXTINF:-1 tvg-name="E!" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/e-entertainmentblack.png",E!
+https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/e-entertainmentblack.png
 
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/1280px-BET_Logo.svg.png",BET
-https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/1280px-BET_Logo.svg.png
+#EXTINF:-1 tvg-name="BET" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/bet.png",BET
+https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/bet.png
 
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://image.roku.com/developer_channels/prod/4c19bced52a7ad9affcef0ab07104f89d63bf4cf37f9b70c2eb9cfb7ec24bb12.png",BEL TV
+#EXTINF:-1 tvg-name="BELTV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/beltv.png",BELTV
 https://hbiptv.live/player/sakchotv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="",Lourdes TV
-https://youtu.be/C_J4Ia66E3Q
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/canal-vie-television_logo.png",Canal de vie télévision
-https://edge2.vedge.infomaniak.com/livecast/ik:canaldevie/media_w1182187495_533.ts?spark=65081c51-9439-4fd0-9f77-6212f62f478f&token=
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/emmanuel-tv_logo.png",Emmanuel TV
-https://playback.akamaized.net/streams/23202872_7200883_lsiq0uyjsvws6dcguqg_1/master.m3u8?dw=14400&hdnts=exp=1593439132~acl=/streams/23202872_7200883_lsiq0uyjsvws6dcguqg_1/master.m3u8*~hmac=a7d75183b942538422edeb9db235c3ac09e959653990c4134dc25c4ad5f67fdd
 
 #EXTM3U
 
