@@ -1,73 +1,73 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="RTI 1" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/rti1.png",RTI 1
+#EXTINF:-1 tvg-id="" tvg-name="RTI 1" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/lg/rti1.png",RTI 1
 #EXTREM:RTI 1 est la première chaîne de télévision généraliste publique ivoirienne qui émet en continu depuis Abidjan.
 https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RTI 2" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/rti2.png",RTI 2
+#EXTINF:-1 tvg-id="" tvg-name="RTI 2" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/lg/rti2.png",RTI 2
 #EXTREM:RTI 2 est une chaîne de télévision généraliste publique ivoirienne. Elle est surtout consacrée à la jeunesse. 
 https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RTI 3" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/rti3.png",La 3
+#EXTINF:-1 tvg-id="" tvg-name="RTI 3" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/lg/rti3.png",La 3
 #EXTREM:La 3 est une chaine de télévision de divertissement.
 https://www.enovativecdn.com:4433/rticdn/smil:rti3.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NCI" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/nci.png",NCI
+#EXTINF:-1 tvg-id="" tvg-name="NCI" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/lg/nci.png",NCI
 https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Life TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/lifetv.png",Life TV
+#EXTINF:-1 tvg-id="" tvg-name="Life TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/lg/lifetv.png",Life TV
 https://lifetv.ci/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="7 Infos" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/7info.png",7info
+#EXTINF:-1 tvg-id="" tvg-name="7 Infos" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/lg/7info.png",7info
 https://www.7info.ci/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/ivoirechannel.png" group-title="Côte d'Ivoire",Ivoire Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/lg/ivoirechannel.png" group-title="Côte d'Ivoire",Ivoire Channel
 http://gamako.livebox.co.in/ivoirechannelhls/ivoirechannel.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/ntv.png",NTV Côte D'Ivoire
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/lg/ntv.png",NTV Côte D'Ivoire
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Africa Gospel TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/africagospel.png",Africa Gospel TV
+#EXTINF:-1 tvg-id="" tvg-name="Africa Gospel TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/lg/africagospel.png",Africa Gospel TV
 https://edge8.vedge.infomaniak.com/livecast/ik:africagospeltv/manifest.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/lumieretv.png",Lumière TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/lg/lumieretv.png",Lumière TV
 http://gamako.livebox.co.in/lumieretvhls/lumieretvci.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/ecctv.png",ECCLESIA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/lg/ecctv.png",ECCLESIA TV
 https://gamako.livebox.co.in/Ecclesiatvhls/etvci.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="D5TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/D5TV.png",D5TV
+#EXTINF:-1 tvg-id="" tvg-name="D5TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/lg/D5TV.png",D5TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="D5Music" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/D5Music.png",D5Music
+#EXTINF:-1 tvg-id="" tvg-name="D5Music" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/lg/D5Music.png",D5Music
 https://live.creacast.com/d5music/smil:d5music.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/a12tv.png",A12 TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/lg/a12tv.png",A12 TV
 http://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/rougetv.png",Rouge TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/lg/rougetv.png",Rouge TV
 https://edge9.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/anntv.png",ANN TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/lg/anntv.png",ANN TV
 http://vod.acangroup.org:1935/output/anntv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/dbm.png",DBM TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/lg/dbm.png",DBM TV
 https://edge4.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/leeekotv.png",Lèeekô TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/lg/leeekotv.png",Lèeekô TV
 http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/africanews.png",Africanews
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/lg/africanews.png",Africanews
 https://youtu.be/vhLS-lsnhn0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/voxafrica.png",VOX Africa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/lg/voxafrica.png",VOX Africa
 https://1927901613.rsc.cdn77.org/1927901613/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/a24.png",Africa24
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/lg/a24.png",Africa24
 https://youtu.be/L5Ppr0JvPws
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/africaSportstv.png",AfricaSports TV
-https://strhlslb01.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/str_africasportstv_africasportstv/str_africasportstv_player_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/chaine/lg/africaSportstv.png",AfricaSports TV
+https://strhlslb01.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/str_africasportstv_africasportstv/str_africasportstv_player_1080p/chaineunks.m3u8
 
 
 
@@ -178,19 +178,19 @@ https://biptv.tv/live/biptvstream_orig/index.m3u8
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" group-title="Music",Clubbing TV
-https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654
+https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chaineunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chaineunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EH24utk.jpg" group-title="News",Euronews English
 http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chaineunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chaineunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Fashion",Fashion TV Paris
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chaineunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/n6owIqv.png" group-title="Fashion",Fashion TV PG13
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
@@ -214,13 +214,13 @@ http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 http://local-server.theworkpc.com:8010/yasir.ali806/G9rWpfXN18/1816
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/ZEA3az8.png",Grand Lille TV
-https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chaineunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/tzurFum.png",Holygod TV Europe & Middle East
 https://dcunilive47-lh.akamaihd.net/i/dclive_1@739146/index_150.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-id="I24news FR" tvg-name="I24news FR" tvg-language="French" tvg-logo="https://i.imgur.com/pA3oGAU.png" group-title="News",i24 News
-https://i24alive1-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8
+https://i24alive1-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/profile_0/chaineunklist_dvr.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg",ILTV
 http://str81.creacast.com:80/iltv/high/playlist.m3u8
@@ -300,7 +300,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 #http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 #EXTINF:-1,Miami TV
-#http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
+#http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chaineunklist_b2592000.m3u8
 
 #EXTINF:-1,Dorcel TV
 #http://188.35.9.11:21141/udp/214h
