@@ -2,11 +2,11 @@
 
 #EXTINF:-1 tvg-name="RTI 1" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/rti1.png",RTI 1
 #EXTREM:RTI 1 est la première chaîne de télévision généraliste publique ivoirienne qui émet en continu depuis Abidjan.
-http://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
+https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RTI 2" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/rti2.png",RTI 2
 #EXTREM:RTI 2 est une chaîne de télévision généraliste publique ivoirienne. Elle est surtout consacrée à la jeunesse. 
-http://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
+https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RTI 3" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/rti3.png",La 3
 #EXTREM:La 3 est une chaine de télévision de divertissement.
@@ -16,10 +16,10 @@ https://www.enovativecdn.com:4433/rticdn/smil:rti3.smil/playlist.m3u8
 https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Life TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/lifetv.png",Life TV
-https://lifetv.ci/playlist.m3u8
+https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/lifetv.png
 
 #EXTINF:-1 tvg-name="7 Infos" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/7info.png",7info
-https://www.7info.ci/playlist.m3u8
+https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/7info.png
 
 #EXTINF:-1 tvg-name="Ivoire Channel" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/ivoirechannel.png" group-title="Côte d'Ivoire",Ivoire Channel
 http://gamako.livebox.co.in/ivoirechannelhls/ivoirechannel.m3u8
@@ -48,9 +48,6 @@ https://live.creacast.com/d5music/smil:d5music.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="A12 TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/a12tv.png",A12 TV
 http://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
 
-#EXTINF:-1 tvg-name="Rouge TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/rougetv.png",Rouge TV
-https://edge9.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-name="ANN TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/anntv.png",ANN TV
 http://vod.acangroup.org:1935/output/anntv.stream/playlist.m3u8
 
@@ -61,13 +58,13 @@ https://edge4.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8
 http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Africanews" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/africanews.png",Africanews
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1594389179/ei/Wx4IX4iFEe-fxN8P2-mC0AM/ip/86.244.19.111/id/vhLS-lsnhn0.0/source/yt_live_broadcast/requiressl/yes/tx/23901880/txs/23901880%2C23901881/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANfcmiyWcGmCprUJTsNcskgeeIjW7dpAfyv0j2lR2koEAiAqgVG25nfeHd_3bHs9CyLSWMpO3eyteioCjbMVm2xKaQ%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1594935073/ei/wXIQX7myEIf-xgKv8aTICQ/ip/86.244.19.111/id/KNcyToYVN0w.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883098/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAN5gyyZCNKapoHrXVwYKsnxWYh_0JVKjTm6XubuBxYjcAiAfIYqLDKMnlcuEm5eOEF9sn2Vlmx-WIy3gp7Of3TIv-A%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-name="VOX Africa" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/voxafrica.png",VOX Africa
 https://1927901613.rsc.cdn77.org/1927901613/index.m3u8
 
 #EXTINF:-1 tvg-name="Africa24" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/a24.png",Africa24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1594389313/ei/4R4IX7uPHPTSsAKFmavgDg/ip/86.244.19.111/id/L5Ppr0JvPws.1/source/yt_live_broadcast/requiressl/yes/tx/23901880/txs/23901880%2C23901881/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgIRaUDw-RmvrnuIaqJMW1H-lzs-Uar5FC5Gifuslqce4CIQCaSvWieuLFwuu3h4cEcQS1_WjwWGC2vSyBGcJLFN5lPg%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1594934520/ei/mHAQX5PVBKaoxN8PsJ2PgAw/ip/86.244.19.111/id/L5Ppr0JvPws.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23883098/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgdFwyJvUve_hNlAXu-YaxKRdYmk_9XW1-gbwS0aP0KY8CIF_VxWcu_e6OFqT-4pYMnQYX7Zmi5H3wqfN9RwpFhPiQ/file/index.m3u8
 
 #EXTINF:-1 tvg-name="AfricaSports TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/africasportstv.png",AfricaSports TV
 https://strhlslb01.streamakaci.tv/str_africasportstv_africasportstv/str_africasportstv_multi/str_africasportstv_africasportstv/str_africasportstv_player_1080p/chunks.m3u8
