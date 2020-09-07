@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/lifetv.png
 https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/7info.png
 
 #EXTINF:-1 tvg-name="Ivoire Channel" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/ivoirechannel.png" group-title="Côte d'Ivoire",Ivoire Channel
-http://gamako.livebox.co.in/ivoirechannelhls/ivoirechannel.m3u8
+https://video1.getstreamhosting.com:1936/8254/8254/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NTV Côte D'Ivoire" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/ntv.png",NTV Côte D'Ivoire
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
@@ -31,10 +31,10 @@ https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 https://edge8.vedge.infomaniak.com/livecast/ik:africagospeltv/manifest.m3u8
 
 #EXTINF:-1 tvg-name="Lumière TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/lumieretv.png",Lumière TV
-http://gamako.livebox.co.in/lumieretvhls/lumieretvci.m3u8
+https://video1.getstreamhosting.com:1936/8248/8248/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ECCLESIA TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/ecctv.png",ECCLESIA TV
-https://gamako.livebox.co.in/Ecclesiatvhls/etvci.m3u8
+https://video1.getstreamhosting.com:1936/8252/8252/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/TVLourdes.png",Lourdes TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1594413275/ei/e3wIX_8m4vfGAv7PlvAB/ip/86.244.19.111/id/bC_N6UPpLyg.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgDLBceXl2RO_KOqVOGnmCSBItaDcDoNjEcjkdB-I3qPMCIAXK8uEbbexW9UrWXXKBTZUOSFIUzPNN6TGvsSnwx8zX/file/index.m3u8
@@ -44,6 +44,21 @@ https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="D5Music" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/D5Music.png",D5Music
 https://live.creacast.com/d5music/smil:d5music.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bblack.tv.africa" tvg-name="BBLACK TV AFRICA" group-title="Music" tvg-logo="https://static.sangatv.com/images/channels/logo/0110a860-ba2b-11e7-bbb9-fb46899e5d1e.png",BBLACK TV AFRICA
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+
+#EXTINF:-1 group-title="News",BBLACK TV CARIBBEAN
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+
+#EXTINF:-1 group-title="News",MCM TOP
+http://ott-cdn.ucom.am/s49/index.m3u8
+
+#EXTINF:-1 group-title="News",MONACO INFO NEW
+http://46.105.34.238/liveevent.m3u8
+
+#EXTINF:-1 group-title="News",PLAY
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="A12 TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/a12tv.png",A12 TV
 http://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
@@ -90,62 +105,6 @@ https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/bet.png
 #EXTINF:-1 tvg-name="BELTV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/beltv.png",BELTV
 https://hbiptv.live/player/sakchotv/tracks-v1a1/mono.m3u8
 
-
-
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://www.rti.ci/images/logo_freq2_gris.png" group-title="Côte d'Ivoire",Fréquence 2
-https://www.enovativecdn.com:4433/radio/frequence2.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://www.rti.ci/images/logo_radioci_gris.png" group-title="Côte d'Ivoire",Radio Côte d'Ivoire
-https://www.enovativecdn.com:4433/radio/radiorci.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/lumiere-radio.jpg" group-title="Côte d'Ivoire",Lumière Radio
-https://sv1.vestaradio.com/LumiereRadio
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/skyrock-abidjan_logo.jpg" group-title="Côte d'Ivoire",Skyrock Abidjan
-https://icecast.skyrock.net/s/abidjan_aac_64k
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/cristal-fm_ci.jpg" group-title="Côte d'Ivoire",Cristal FM
-http://ca10.rcast.net:8038/;stream.mp3
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/fr%C3%A9quence-vie.jpg" group-title="Côte d'Ivoire",Fréquence Vie
-http://51.158.97.118:8000/frequencevie.mp3
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/bbc-afrique-radio_logo.jpg" group-title="Côte d'Ivoire",BBC Afrique Radio
-http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-frena_backup
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/africa-radio_logo.png" group-title="Côte d'Ivoire",Africa Radio
-https://african1paris.ice.infomaniak.ch/african1paris-128.mp3
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/adoration-matinale-ci_logo.png" group-title="Côte d'Ivoire",Adoration Matinale
-https://www.radioking.com/play/adoration-matinale
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/RJN-fm-ci_logo.png" group-title="Côte d'Ivoire",RJN FM
-http://radiojn.ice.infomaniak.ch/radiojn.aac
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/radio-zouglou-ci_logo.png" group-title="Côte d'Ivoire",Radio Zouglou
-http://listen.radionomy.com/radiozouglou?;stream.mp3
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/nostalgie-cote-divoire_logo.png" group-title="Côte d'Ivoire",Radio Nostalgie Cote d’ivoire
-http://213.136.96.14:8000/nostalgie.mp3
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/radio-nationale-catholique_logo.png" group-title="Côte d'Ivoire",Radio Nationale Catholique
-http://radionationalecatholiqueci.ice.infomaniak.ch/radionationalecatholiqueci-128.mp3
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/radio-jam-cote-divoire_logo.png" group-title="Côte d'Ivoire",Radio Jam
-https://www.radioking.com/play/my-radio-jam
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/radio-espoir-ci_logo.png" group-title="Côte d'Ivoire",Radio Espoir Cote d’ivoire
-http://93.190.141.15:7030/;stream.mp3
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/hit-radio-ci_logo.png" group-title="Côte d'Ivoire",HIT Radio Côte d’Ivoire
-http://ci-abidjan.ice.infomaniak.ch/ci-abidjan-128.mp3
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/Trace-fm-ci_logo.png" group-title="Côte d'Ivoire",Trace FM Côte d’Ivoire
-http://stream.trace.tv/trace_fm_ci-midfi.aac
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/Vibe-radio-ci_logo.png" group-title="Côte d'Ivoire",Vibe Radio
-http://217.182.132.143:8000/viberadio-ci.mp3
 
 
 
@@ -234,6 +193,7 @@ http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
 
 
 
+
 #EXTINF:-1,JASMIN.TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
@@ -242,3 +202,61 @@ http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b259
 
 #EXTINF:-1,Dorcel TV
 http://188.35.9.11:21141/udp/214h
+
+
+
+
+
+#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://www.rti.ci/images/logo_freq2_gris.png" group-title="Côte d'Ivoire",Fréquence 2
+https://www.enovativecdn.com:4433/radio/frequence2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://www.rti.ci/images/logo_radioci_gris.png" group-title="Côte d'Ivoire",Radio Côte d'Ivoire
+https://www.enovativecdn.com:4433/radio/radiorci.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/lumiere-radio.jpg" group-title="Côte d'Ivoire",Lumière Radio
+https://sv1.vestaradio.com/LumiereRadio
+
+#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/skyrock-abidjan_logo.jpg" group-title="Côte d'Ivoire",Skyrock Abidjan
+https://icecast.skyrock.net/s/abidjan_aac_64k
+
+#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/cristal-fm_ci.jpg" group-title="Côte d'Ivoire",Cristal FM
+http://ca10.rcast.net:8038/;stream.mp3
+
+#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/fr%C3%A9quence-vie.jpg" group-title="Côte d'Ivoire",Fréquence Vie
+http://51.158.97.118:8000/frequencevie.mp3
+
+#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/bbc-afrique-radio_logo.jpg" group-title="Côte d'Ivoire",BBC Afrique Radio
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-frena_backup
+
+#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/africa-radio_logo.png" group-title="Côte d'Ivoire",Africa Radio
+https://african1paris.ice.infomaniak.ch/african1paris-128.mp3
+
+#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/adoration-matinale-ci_logo.png" group-title="Côte d'Ivoire",Adoration Matinale
+https://www.radioking.com/play/adoration-matinale
+
+#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/RJN-fm-ci_logo.png" group-title="Côte d'Ivoire",RJN FM
+http://radiojn.ice.infomaniak.ch/radiojn.aac
+
+#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/radio-zouglou-ci_logo.png" group-title="Côte d'Ivoire",Radio Zouglou
+http://listen.radionomy.com/radiozouglou?;stream.mp3
+
+#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/nostalgie-cote-divoire_logo.png" group-title="Côte d'Ivoire",Radio Nostalgie Cote d’ivoire
+http://213.136.96.14:8000/nostalgie.mp3
+
+#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/radio-nationale-catholique_logo.png" group-title="Côte d'Ivoire",Radio Nationale Catholique
+http://radionationalecatholiqueci.ice.infomaniak.ch/radionationalecatholiqueci-128.mp3
+
+#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/radio-jam-cote-divoire_logo.png" group-title="Côte d'Ivoire",Radio Jam
+https://www.radioking.com/play/my-radio-jam
+
+#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/radio-espoir-ci_logo.png" group-title="Côte d'Ivoire",Radio Espoir Cote d’ivoire
+http://93.190.141.15:7030/;stream.mp3
+
+#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/hit-radio-ci_logo.png" group-title="Côte d'Ivoire",HIT Radio Côte d’Ivoire
+http://ci-abidjan.ice.infomaniak.ch/ci-abidjan-128.mp3
+
+#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/Trace-fm-ci_logo.png" group-title="Côte d'Ivoire",Trace FM Côte d’Ivoire
+http://stream.trace.tv/trace_fm_ci-midfi.aac
+
+#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/Vibe-radio-ci_logo.png" group-title="Côte d'Ivoire",Vibe Radio
+http://217.182.132.143:8000/viberadio-ci.mp3
