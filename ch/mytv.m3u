@@ -2,7 +2,8 @@
 
 #EXTINF:-1 tvg-name="RTI 1" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/rti1.png",RTI 1
 #EXTREM:RTI 1 est la première chaîne de télévision généraliste publique ivoirienne qui émet en continu depuis Abidjan.
-https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
+#https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1599761951/ei/vxlaX-SvGqXtsAKPwZXwBg/ip/2a01%3Acb00%3A81f8%3Af200%3A50f8%3A7a26%3Ae3c2%3A7315/id/F_BamRGoQXU.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALz7LDCp3H1iXY14U56bkMzmUf2dr4dz-cUWxBgOvcD2AiEA9TWWSLxJDBxGOqU0U222EuZJoFdEahtg8tc_RWgT_r8%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-name="RTI 2" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/rti2.png",RTI 2
 #EXTREM:RTI 2 est une chaîne de télévision généraliste publique ivoirienne. Elle est surtout consacrée à la jeunesse. 
@@ -16,7 +17,7 @@ https://www.enovativecdn.com:4433/rticdn/smil:rti3.smil/playlist.m3u8
 https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Life TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/lifetv.png",Life TV
-https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/lifetv.png
+https://www.youtube.com/watch?v=pFXXGMZqiMY&ab_channel=LifeTV
 
 #EXTINF:-1 tvg-name="7 Infos" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/7info.png",7info
 https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/7info.png
