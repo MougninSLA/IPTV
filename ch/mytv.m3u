@@ -17,7 +17,7 @@ https://www.enovativecdn.com:4433/rticdn/smil:rti3.smil/playlist.m3u8
 https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Life TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/lifetv.png",Life TV
-https://www.youtube.com/watch?v=pFXXGMZqiMY&ab_channel=LifeTV
+https://manifest.googlevideo.com/api/manifest/dash/expire/1599766917/ei/JS1aX8LgK9ih1gbyvIuABw/ip/2a01%3Acb00%3A81f8%3Af200%3A3118%3A2833%3Ab84%3Aa4f3/id/a455d718c66a88c6/source/youtube/requiressl/yes/playback_host/r4---sn-25glene6.googlevideo.com/mh/Cu/mm/31%2C29/mn/sn-25glene6%2Csn-25ge7nsl/ms/au%2Crdu/mv/m/mvi/4/pl/30/hfr/all/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/initcwndbps/1005000/vprv/1/mt/1599745263/fvip/4/keepalive/yes/itag/0/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cas%2Cvprv%2Citag/sig/AOq0QJ8wRAIgaEdR-JTlfIhx5QHXmdM9c6QHpOdspqUeRj0-oixE3voCIDOltUhl6bNyCVZxgeWJkJv3FWacFSmxgeg5cW3Tp6_X/lsparams/playback_host%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps/lsig/AG3C_xAwRQIhAN1okWl-SltdRv6xG2PMubCq09zMCP5Lf7B-iQ66woHBAiBwpoAYPlRKATVrYemFWCKo86Jv1lSieVL600JjRaB6fw%3D%3D
 
 #EXTINF:-1 tvg-name="7 Infos" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/7info.png",7info
 https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/7info.png
