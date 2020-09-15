@@ -2,15 +2,15 @@
 
 #EXTINF:-1 tvg-name="RTI 1" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/rti1.png",RTI 1
 #EXTREM:RTI1 est la première chaîne de télévision généraliste publique ivoirienne qui émet en continu depuis Abidjan.
-https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/playlist.m3u8
+https://www.enovativecdn.com/rticdn/smil:rti1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RTI 2" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/rti2.png",RTI 2
 #EXTREM:RTI2 est une chaîne de télévision généraliste publique ivoirienne. Elle est surtout consacrée à la jeunesse. 
-https://www.enovativecdn.com:4433/rticdn/smil:rti2.smil/playlist.m3u8
+https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RTI 3" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/rti3.png",La 3
 #EXTREM:La 3 est une chaîne de télévision généraliste publique ivoirienne de divertissement.
-https://www.enovativecdn.com:4433/rticdn/smil:rti3.smil/playlist.m3u8
+https://www.enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NCI" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/nci.png",NCI
 #EXTREM:La Nouvelle Chaîne Ivoirienne, plus connue sous le sigle NCI est la première chaîne de télévision privée ivoirienne. La chaîne est diffusée en Côte d'Ivoire via la TNT et le câble , en Afrique sur le satellite, et dans le monde entier par la télévision IP et le Web.
