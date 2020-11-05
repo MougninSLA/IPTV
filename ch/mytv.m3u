@@ -112,8 +112,45 @@ https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/bet.png
 #EXTINF:-1 tvg-name="BELTV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/beltv.png",BELTV
 https://hbiptv.live/player/sakchotv/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEINSPORT 1 FR
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92221?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEINSPORT 2 FR
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92222?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEINSPORT 2HD
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/59392?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEINSPORT 3 FR
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92223?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEINSPORT-MAX-10
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92230?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEINSPORT-MAX-4
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92224?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEINSPORT-MAX-5
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92225?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEINSPORT-MAX-6
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92226?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEINSPORT-MAX-7
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92227?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEINSPORT-MAX-8
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92228?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEINSPORT-MAX-9
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92229?checkedby:iptvcat.com
 
-
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISCOVERY
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92181?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISCOVERY INVESTIGATION
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92180?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
+http://tv2iptv.com:8080/ammar/ammar/92587?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISNEY CHANNEL
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92250?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISNEY JUNIOR
+http://tv2iptv.com:8080/ammar/ammar/92555?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISNEY XD
+http://tv2iptv.com:8080/ammar/ammar/92556?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Disney CINEMA FHD
+http://gold.euromediaserver.com:80/bahri2020/bahri2020/45931?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Disney CINEMAGIC HD
+http://tvtotal.ddns.blog:8080/cueva/1R8A7WmNEH/742346?checkedby:iptvcat.com
 
 
 #EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/d2wbX6e.jpg" group-title="Music",NRJ Hits TV
@@ -125,20 +162,11 @@ https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5
 #EXTINF:-1 tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/EH24utk.jpg" group-title="News",Euronews English
 http://ott.artmott.com/EuroNews/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion",Fashion TV Midnite Secrets
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Fashion",Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/n6owIqv.png" group-title="Fashion",Fashion TV PG13
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV PG16
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
@@ -207,9 +235,6 @@ http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1,Miami TV
 http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
 
-#EXTINF:-1,Dorcel TV
-http://188.35.9.11:21141/udp/214h
-
 
 
 
@@ -267,5 +292,3 @@ http://stream.trace.tv/trace_fm_ci-midfi.aac
 
 #EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="http://www.centraltv.fr/wp-content/uploads/Vibe-radio-ci_logo.png" group-title="Côte d'Ivoire",Vibe Radio
 http://217.182.132.143:8000/viberadio-ci.mp3
-
-
