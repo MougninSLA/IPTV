@@ -101,49 +101,62 @@ https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/e-entertainmentbl
 #EXTINF:-1 tvg-name="BET" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/BET.png",BET
 https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/bet.png
 
-#EXTINF:-1 tvg-name="BELTV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/beltv.png",BELTV
-https://hbiptv.live/player/sakchotv/tracks-v1a1/mono.m3u8
-
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEINSPORT 1 FR
 http://185.232.53.5:2086/arellano/kgtL965n2Y/92221?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEINSPORT 2 FR
 http://185.232.53.5:2086/arellano/kgtL965n2Y/92222?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEINSPORT 2HD
 http://gold.euromediaserver.com:80/bahri2020/bahri2020/59392?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEINSPORT 3 FR
 http://185.232.53.5:2086/arellano/kgtL965n2Y/92223?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEINSPORT-MAX-10
 http://185.232.53.5:2086/arellano/kgtL965n2Y/92230?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEINSPORT-MAX-4
 http://185.232.53.5:2086/arellano/kgtL965n2Y/92224?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEINSPORT-MAX-5
 http://185.232.53.5:2086/arellano/kgtL965n2Y/92225?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEINSPORT-MAX-6
 http://185.232.53.5:2086/arellano/kgtL965n2Y/92226?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEINSPORT-MAX-7
 http://185.232.53.5:2086/arellano/kgtL965n2Y/92227?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEINSPORT-MAX-8
 http://185.232.53.5:2086/arellano/kgtL965n2Y/92228?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",BEINSPORT-MAX-9
 http://185.232.53.5:2086/arellano/kgtL965n2Y/92229?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISCOVERY
 http://185.232.53.5:2086/arellano/kgtL965n2Y/92181?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISCOVERY INVESTIGATION
 http://185.232.53.5:2086/arellano/kgtL965n2Y/92180?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
 http://tv2iptv.com:8080/ammar/ammar/92587?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISNEY CHANNEL
 http://185.232.53.5:2086/arellano/kgtL965n2Y/92250?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISNEY JUNIOR
 http://tv2iptv.com:8080/ammar/ammar/92555?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISNEY XD
 http://tv2iptv.com:8080/ammar/ammar/92556?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Disney CINEMA FHD
 http://gold.euromediaserver.com:80/bahri2020/bahri2020/45931?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Disney CINEMAGIC HD
 http://tvtotal.ddns.blog:8080/cueva/1R8A7WmNEH/742346?checkedby:iptvcat.com
-
 
 #EXTINF:-1 tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/d2wbX6e.jpg" group-title="Music",NRJ Hits TV
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
@@ -217,16 +230,11 @@ http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-language="English" tvg-logo="" group-title="Religious",Better Nature TV
 http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
 
-
-
-
-
 #EXTINF:-1,JASMIN.TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 
 #EXTINF:-1,Miami TV
 http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
-
 
 
 
