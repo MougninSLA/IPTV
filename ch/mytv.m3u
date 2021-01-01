@@ -12,7 +12,7 @@ https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
 #EXTREM:La 3 est une chaîne de télévision généraliste publique ivoirienne de divertissement.
 https://www.enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTI Bouaké" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/rtibouake.png",RTI 3
+#EXTINF:-1 tvg-name="RTI Bouaké" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/rtibouake.png",RTI Bouaké
 #EXTREM:RTI Bouaké est une chaîne de télévision généraliste publique ivoirienne de divertissement. Elle est basée à Bouaké.
 https://www.enovativecdn.com/rticdn/smil:rtibouake.smil/playlist.m3u8
 
