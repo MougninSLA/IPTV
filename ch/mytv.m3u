@@ -12,6 +12,10 @@ https://www.enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8
 #EXTREM:La 3 est une chaîne de télévision généraliste publique ivoirienne de divertissement.
 https://www.enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-name="RTI Bouaké" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/rtibouake.png",RTI 3
+#EXTREM:RTI Bouaké est une chaîne de télévision généraliste publique ivoirienne de divertissement. Elle est basée à Bouaké.
+https://www.enovativecdn.com/rticdn/smil:rtibouake.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-name="NCI" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/nci.png",NCI
 #EXTREM:La Nouvelle Chaîne Ivoirienne, plus connue sous le sigle NCI est la première chaîne de télévision privée ivoirienne. La chaîne est diffusée en Côte d'Ivoire via la TNT et le câble , en Afrique sur le satellite, et dans le monde entier par la télévision IP et le Web.
 https://nci.cdn.easybroadcast.fr/NCI_ABR/ncipix/playlist.m3u8
