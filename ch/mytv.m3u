@@ -42,7 +42,7 @@ https://video1.getstreamhosting.com:1936/8248/8248/playlist.m3u8
 
 #EXTINF:-1 tvg-name="LMTV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/lmtv.png",LMTV
 #EXTREM:Créée en 2008, Lumière du Monde Télévision plus connue sous le sigle LMTV, est une chaîne de télévision chrétienne généraliste panafricaine qui a ses studios de production à Abidjan en Côte d'ivoire1. Disponible en Français et en Anglais, elle est reçue par satellite 2dans 48 pays de l'Afrique Subsaharienne, tant en Free-To-Air que par bouquets cryptés, TNT, OTT et le Web dans le monde entier.
-https://stream-06.ix7.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZeclUlmn4P805ZZzOn8w9Is)/dm/3/x7v9jy4/d/live-0.m3u8
+https://stream-08.ix7.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmr9Y7LROZVz-ckoqXIhVRx0)/dm/3/x7x3gqy/d/live-0.m3u8
 
 #EXTINF:-1 tvg-name="ECCLESIA TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/ecctv.png",ECCLESIA TV
 https://video1.getstreamhosting.com:1936/8252/8252/playlist.m3u8
@@ -57,19 +57,7 @@ https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
 https://live.creacast.com/d5music/smil:d5music.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bblack.tv.africa" tvg-name="BBLACK TV AFRICA" group-title="Music" tvg-logo="https://static.sangatv.com/images/channels/logo/0110a860-ba2b-11e7-bbb9-fb46899e5d1e.png",BBLACK TV AFRICA
-http://ec.playmedia.fr/beblack/africa/playlist.m3u8
-
-#EXTINF:-1 group-title="News",BBLACK TV CARIBBEAN
-http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
-
-#EXTINF:-1 group-title="News",MCM TOP
-http://ott-cdn.ucom.am/s49/index.m3u8
-
-#EXTINF:-1 group-title="News",MONACO INFO NEW
-http://46.105.34.238/liveevent.m3u8
-
-#EXTINF:-1 group-title="News",PLAY
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+http://connectiktv.ddns.me:8080/bblack/index.m3u8
 
 #EXTINF:-1 tvg-name="A12 TV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/a12tv.png",A12 TV
 http://gamako.livebox.co.in/a12tvhls/a12tv.m3u8
