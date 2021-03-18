@@ -31,6 +31,10 @@ https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/7info.png
 #EXTINF:-1 tvg-name="Ivoire Channel" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/ivoirechannel.png" group-title="Côte d'Ivoire",Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 
+#EXTINF:-1 tvg-name="BlockhaussTV" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/btv.png" group-title="Côte d'Ivoire",BlockhaussTV
+#EXTREM:Blockhauss TV est la première chaîne communautaire de côte d’Ivoire. C’est la vitrine du peuple Atchan. Elle a pour but de promouvoir la culture, les valeurs et les qualités de la communauté dans son ensemble.
+http://46.101.49.185/hls/stream.m3u8
+
 #EXTINF:-1 tvg-name="NTV Côte D'Ivoire" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/MougninSLA/IPTV/master/ch/lg/ntv.png",NTV Côte D'Ivoire
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 
